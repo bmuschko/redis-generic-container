@@ -16,4 +16,4 @@ jobs:
       with:
         arguments: build
     -  name: Build with Maven
-       run: ./mvwn test
+       run: ./mvnw test
