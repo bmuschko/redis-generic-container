@@ -3,6 +3,7 @@ apply plugin: 'java'
 group = 'com.bmuschko'
 version = '1.0.0'
 
+// this is a test
 sourceCompatibility = JavaVersion.VERSION_11
 targetCompatibility = JavaVersion.VERSION_11
 
